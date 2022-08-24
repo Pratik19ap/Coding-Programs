@@ -1,2 +1,2 @@
 # Coding-Programs
-One stop destination to all coding questions!
+One stop destination to all Coding Solutions!
