@@ -1,4 +1,4 @@
-//Author: Anshuman Pratik | Programmed in C++
+//Author: Anshuman Pratik | Programmed in Java
 class Solution { 
     public boolean isValid(String s) { 
         Stack<Character> stack = new Stack<Character>(); 
