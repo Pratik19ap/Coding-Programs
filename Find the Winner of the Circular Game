@@ -5,12 +5,12 @@ class Solution {
 public:
     int func(int n, int k){
         if(n==1)
-            return 0; //Mod Property lies 0 to (n-1)
+            return 0; //Modulus range lies 0 to (n-1)
     
-    return (func(n-1, k)+k)%n;
+    return (func(n-1, k)+k) %n;
     }
     int findTheWinner(int n, int k) {
-        int win = func(n,k);  //Answer with Indexing (0,1,2...n-1)
+        int win = func(n,k);  //Results function with Indexing (0,1,2...n-1)
         return (win+1);
         
     }
