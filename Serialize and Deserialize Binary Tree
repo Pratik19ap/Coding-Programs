@@ -1,4 +1,4 @@
-//Author: Anshuman Pratik | Programmed in Java
+// Programmed in Java | Author: Anshuman Pratik 
 public class Codec {
     private static final String spliter = ",";
     private static final String NN = "X";
