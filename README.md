@@ -1,2 +1,2 @@
 # DSA Programming & Development
-One stop destination to all Coding Solutions!
+Data Structures and Algorithms Program Solutions
